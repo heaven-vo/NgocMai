@@ -137,4 +137,4 @@ let indexText = 0;
                 rose4.setAttribute("stroke", "none");
             },
             autoplay: true,
-        });
+        })
